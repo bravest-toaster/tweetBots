@@ -1,6 +1,6 @@
 import tweepy
 from tweepy import Stream
-from tweepy.stream import StreamListener 
+from tweepy.streaming import StreamListener 
 from tweepy import OAuthHandler
 import json
 consumer_key = "6gTma2ITYHEh7MZMRJaflnxK7"
