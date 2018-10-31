@@ -1,0 +1,7 @@
+oauthlib
+
+six
+tweepy
+wikipedia
+
+datetime
