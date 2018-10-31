@@ -1,7 +1,6 @@
 oauthlib
-
 six
 tweepy
 wikipedia
-
 datetime
+config
